@@ -1,7 +1,7 @@
 name: calcpublish
-description: "A new Flutter package project."
+description: Yağız Ali Akman tarafından geliştirilen temel hesap makinesi dart paketi.
 version: 0.0.1
-homepage:
+homepage: https://github.com/yagizaliakman/calcpublish
 
 environment:
   sdk: ^3.11.0
